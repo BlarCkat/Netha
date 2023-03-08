@@ -1,0 +1,181 @@
+$color-white: #FFFFFF;
+$color-black: #000000;
+
+$color-dark0: #C1C2C5;
+$color-dark100: #A6A7AB;
+$color-dark200: #909296;
+$color-dark300: #5C5F66;
+$color-dark400: #373A40;
+$color-dark500: #2C2E33;
+$color-dark600: #25262B;
+$color-dark700: #1A1B1E;
+$color-dark800: #141517;
+$color-dark900: #101113;
+
+
+$color-gray0: #F8F9FA;
+$color-gray100: #F1F3F5;
+$color-gray200: #E9ECEF;
+$color-gray300: #DEE2E6;
+$color-gray400: #CED4DA;
+$color-gray500: #ADB5BD;
+$color-gray600: #868E96;
+$color-gray700: #495057;
+$color-gray800: #343A40;
+$color-gray900: #212529;
+
+$color-red0: #FFF5F5;
+$color-red100: #FFE3E3;
+$color-red200: #FFC9C9;
+$color-red300: #FFA8A8;
+$color-red400: #FF8787;
+$color-red500: #FF6B6B;
+$color-red600: #FA5252;
+$color-red700: #F03E3E;
+$color-red800: #E03131;
+$color-red900: #C92A2A;
+
+
+$color-pink0: #FFF0F6;
+$color-pink100: #FFDEEB;
+$color-pink200: #FCC2D7;
+$color-pink300: #FAA2C1;
+$color-pink400: #F783AC;
+$color-pink500: #F06595;
+$color-pink600: #E64980;
+$color-pink700: #D6336C;
+$color-pink800: #C2255C;
+$color-pink900: #A61E4D;
+
+
+$color-purple0: #F8F0FC;
+$color-purple100: #F3D9FA;
+$color-purple200: #EEBEFA;
+$color-purple300: #E599F7;
+$color-purple400: #DA77F2;
+$color-purple500: #CC5DE8;
+$color-purple600: #BE4BDB;
+$color-purple700: #AE3EC9;
+$color-purple800: #9C36B5;
+$color-purple900: #862E9C;
+
+$color-violet0: #F3F0FF;
+$color-violet100: #E5DBFF;
+$color-violet200: #D0BFFF;
+$color-violet300: #B197FC;
+$color-violet400: #9775FA;
+$color-violet500: #845EF7;
+$color-violet600: #7950F2;
+$color-violet700: #7048E8;
+$color-violet800: #6741D9;
+$color-violet900: #5F3DC4;
+
+$color-indigo0: #EDF2FF;
+$color-indigo100: #DBE4FF;
+$color-indigo200: #BAC8FF;
+$color-indigo300: #91A7FF;
+$color-indigo400: #748FFC;
+$color-indigo500: #5C7CFA;
+$color-indigo600: #4C6EF5;
+$color-indigo700: #4263EB;
+$color-indigo800: #3B5BDB;
+$color-indigo900: #364FC7;
+
+$color-blue0: #E7F5FF;
+$color-blue100: #D0EBFF;
+$color-blue200: #A5D8FF;
+$color-blue300: #74C0FC;
+$color-blue400: #4DABF7;
+$color-blue500: #339AF0;
+$color-blue600: #228BE6;
+$color-blue700: #1C7ED6;
+$color-blue800: #1971C2;
+$color-blue900: #1864AB;
+
+$color-cyan0: #E3FAFC;
+$color-cyan100: #C5F6FA;
+$color-cyan200: #99E9F2;
+$color-cyan300: #66D9E8;
+$color-cyan400: #3BC9DB;
+$color-cyan500: #22B8CF;
+$color-cyan600: #15AABF;
+$color-cyan700: #1098AD;
+$color-cyan800: #0C8599;
+$color-cyan900: #0B7285;
+
+$color-teal0: #E6FCF5;
+$color-teal100: #C3FAE8;
+$color-teal200: #96F2D7;
+$color-teal300: #63E6BE;
+$color-teal400: #38D9A9;
+$color-teal500: #20C997;
+$color-teal600: #12B886;
+$color-teal700: #0CA678;
+$color-teal800: #099268;
+$color-teal900: #087F5B;
+
+$color-green0: #EBFBEE;
+$color-green100: #D3F9D8;
+$color-green200: #B2F2BB;
+$color-green300: #8CE99A;
+$color-green400: #69DB7C;
+$color-green500: #51CF66;
+$color-green600: #40C057;
+$color-green700: #37B24D;
+$color-green800: #2F9E44;
+$color-green900: #2B8A3E;
+
+$color-lime0: #F4FCE3;
+$color-lime100: #E9FAC8;
+$color-lime200: #D8F5A2;
+$color-lime300: #C0EB75;
+$color-lime400: #A9E34B;
+$color-lime500: #94D82D;
+$color-lime600: #82C91E;
+$color-lime700: #74B816;
+$color-lime800: #66A80F;
+$color-lime900: #5C940D;
+
+$color-yellow0: #FFF9DB;
+$color-yellow100: #FFF3BF;
+$color-yellow200: #FFEC99;
+$color-yellow300: #FFE066;
+$color-yellow400: #FFD43B;
+$color-yellow500: #FCC419;
+$color-yellow600: #FAB005;
+$color-yellow700: #F59F00;
+$color-yellow800: #F08C00;
+$color-yellow900: #E67700;
+
+$color-orange0: #FFF4E6;
+$color-orange100: #FFE8CC;
+$color-orange200: #FFD8A8;
+$color-orange300: #FFC078;
+$color-orange400: #FFA94D;
+$color-orange500: #FF922B;
+$color-orange600: #FD7E14;
+$color-orange700: #F76707;
+$color-orange800: #E8590C;
+$color-orange900: #D9480F;
+
+
+
+
+
+
+
+
+
+
+
+
+// $color-newColor0: #C1C2C5;
+// $color-newColor100: #A6A7AB;
+// $color-newColor200: #909296;
+// $color-newColor300: #5C5F66;
+// $color-newColor400: #373A40;
+// $color-newColor500: #2C2E33;
+// $color-newColor600: #25262B;
+// $color-newColor700: #1A1B1E;
+// $color-newColor800: #141517;
+// $color-newColor900: #101113;

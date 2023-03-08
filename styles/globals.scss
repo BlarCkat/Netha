@@ -1,11 +1,11 @@
 
 // Core
-@use "./core/colors.module.scss";
-@use "./core/layout.module.scss";
-@use "./core/responsive.module.scss";
-@use "./core/spacing.module.scss";
-@use "./core/theming.module.scss";
-@use "./core/typography.module.scss";
+@import "./core/colors.module.scss";
+@import "./core/layout.module.scss";
+@import "./core/responsive.module.scss";
+@import "./core/spacing.module.scss";
+@import "./core/theming.module.scss";
+@import "./core/typography.module.scss";
 
 
 // Components
@@ -13,10 +13,28 @@
 
 // Pages
 
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Inter';
+}
+
+
 .loadingScreen{
     z-index: 99;
     height: 100vh;
     width: 100vw;
     background-color: #202020;
     color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
 }
