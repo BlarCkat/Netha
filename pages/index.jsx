@@ -10,7 +10,7 @@ const LandingView = () => {
             <LandingNavBarComponent/>
             <header>
                 <h1>{user.name}</h1>
-                <div className="hero">
+                <div className="hero text-red-500">
                     <h1>Enter the void. Become the Nether.</h1>
                     <p>Experience the new reality of endless possibilities. Join Netha today to discover life without limits.</p>
                     <Link href={'/'} className="btn btnPrimary">Get Started</Link>

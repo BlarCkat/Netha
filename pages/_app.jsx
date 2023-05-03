@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import '../styles/globals.scss'
+import '../styles/globals.css'
 import { useEffect, useState } from 'react'
 
 
